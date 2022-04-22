@@ -8,6 +8,10 @@ I'm a {fullstack} developer at https://www.branet.com.br/
 
 ## 🚀💻 Technologies & Tools
 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Primefaces](https://img.shields.io/badge/-Primefaces-black?style=flat-square&logo=primefaces)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
