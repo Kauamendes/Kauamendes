@@ -13,8 +13,6 @@ I'm a **back-end** developer at [Attus](https://www.attus.ai/).
 ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![JUnit5](https://img.shields.io/badge/-Junit5-black?style=flat-square&logo=Junit5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Camunda BPMN](https://img.shields.io/badge/-Camunda%20BPMN-003366?style=flat-square&logo=camunda)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka)
 
