@@ -54,4 +54,13 @@
 ###
 
 ## 🐍 Meus commits ao longo do tempo
-<img src="https://raw.githubusercontent.com/Kauamendes/Kauamendes/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kauamendes/Kauamendes/output/snake.svg" alt="Snake animation">
+</p>
+
+## 📊 Meu gráfico de contribuições
+
+<p align="center">
+  <img src="https://github.com/Kauamendes/Kauamendes/blob/main/github-metrics.svg" alt="Gráfico de contribuições">
+</p>
