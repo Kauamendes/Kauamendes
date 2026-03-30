@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Attus<br><br>    🌱 I’m currently learning AWS, Design patterns, System architecture</p>
+<p align="left">🔭 I’m currently working on ALPE Tech<br><br>    🌱 I’m currently learning AWS, Design patterns, System architecture</p>
 
 ###
 
